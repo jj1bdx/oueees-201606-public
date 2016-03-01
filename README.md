@@ -15,7 +15,7 @@
 
 ## Main theme: Internet of Things (IoT)
 
-## 14-JUN-2015: Introduction / IoT device technologies
+## 14-JUN-2016: Introduction / IoT device technologies
 
 （IoTのデバイス技術)
 
@@ -23,7 +23,7 @@
 * Sensor devices
 * Energy efficiency constraint and solutions
 
-## 21-JUN-2015: IoT software and infrastructure
+## 21-JUN-2016: IoT software and infrastructure
 
 （IoTのソフトウェアと実現基盤）
 
@@ -31,7 +31,7 @@
 * End-point access technology (3G/LTE, Bluetooth LE, Wifi)
 * Concurrency, distribution, and fault-tolerance
 
-## 28-JUN-2015: IoT security, privacy, and social impact
+## 28-JUN-2016: IoT security, privacy, and social impact
 
 （IoTのセキュリティ、プライバシーと社会への影響）
 
