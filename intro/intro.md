@@ -95,7 +95,7 @@ Toyonaka, Osaka, Japan
 
 ---
 
-# Remember: IoT is a buzzword. 25 years ago it was called *the Internet*
+# Remember: IoT is a buzzword. 25 years ago it was called *the "Internet"*
 
 ---
 
