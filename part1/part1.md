@@ -83,7 +83,7 @@ Toyonaka, Osaka, Japan
 * Built-in I/O interfaces
 * Virtualization and memory protection
 * Operating environment
-* Features/functions
+* *Microcontrollers are catching up very fast*
 
 ---
 
@@ -159,9 +159,86 @@ Rasberry Pi 3 Model B
 
 Converting environmental changes into information output
 
+![inline](Smart_sensors.jpg)
+
+<!-- By Tejashs (Own work) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3ASmart_sensors.jpg">via Wikimedia Commons</a> -->
+
 ---
 
-### Wikimedia Commons credits for photos
+# Example: mechanical sensors
+
+* Mechanical switches
+* Piezoresistivity
+* Piezoelectricity 
+* Capacitive change
+* Inductive change
+
+---
+
+# Application of mechanical sensors
+
+* Accelerometer
+* Anemometer (wind speed)
+* Gyroscope
+* Pressure sensor
+* Strain gauge
+
+---
+
+# Non-contact sensors
+
+* Antenna (electromagnetic / radiowave)
+* Geiger-Müller tube (radioactivity)
+* Microphone (sound / vibration)
+* Photodiode (CCD/CMOS image sensors)
+* Thermistor (temperature)
+
+---
+
+# Passive or active
+
+* Passive sensors
+   - stealth
+   - taking energy from the object
+* Active sensors
+   - detectable
+   - dynamic measurement methods
+
+---
+
+# How microcontrollers help sensors
+
+* Digital signal processing
+   - Calibration
+   - Measurement accuracy
+   - Noise reduction
+* Failure detection    
+* Storage
+
+---
+
+# Role of sensors on IoT technology: collectivity
+
+Extracting hidden characteristics from the massively collected data
+
+* Correlation analysis
+* Geographically different points
+* Multiple types of information
+* Time series analysis
+
+---
+
+# Question: what kind of new sensor devices will emerge?
+
+Think about the following aspects:
+
+* Collective nature of IoT
+* Microcontrollers and sensors
+* Anything can be a sensor device
+
+---
+
+### Appendix: Wikimedia Commons credits for photos
 
 
 ```markdown
@@ -171,6 +248,7 @@ Converting environmental changes into information output
 <https://commons.wikimedia.org/wiki/File%3ARaspberry_Pi_3_Model_B.png>
 <https://commons.wikimedia.org/wiki/File%3ABreadboard_Arduino_BBAC_-_Step_2_Programming_with_a_Duemilanove.jpg>
 <https://commons.wikimedia.org/wiki/File%3APicoduino_size_demonstration.png>
+<https://commons.wikimedia.org/wiki/File%3ASmart_sensors.jpg>
 
-(Licensed CC BY-SA)
+(All licensed CC BY-SA)
 ```
