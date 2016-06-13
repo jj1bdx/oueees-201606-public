@@ -1,3 +1,4 @@
+autoscale: true
 footer: Kenji Rikitake / oueees 201606 part 1 14-JUN-2016
 slidenumbers: true
 
@@ -175,6 +176,17 @@ Converting environmental changes into information output
 
 ---
 
+# Projected capacitive sensing on a touch screen
+
+![right](TouchScreen_projective_capacitive.svg.jpg)
+
+* Touching by fingers change electrostatic capacitance between electrodes
+* Popular on tablets and smartphones
+
+<!-- By Mercury13 (Own work) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3ATouchScreen_projective_capacitive.svg">via Wikimedia Commons</a> -->
+
+---
+
 # Application of mechanical sensors
 
 * Accelerometer
@@ -185,6 +197,19 @@ Converting environmental changes into information output
 
 ---
 
+# Strain gauge
+
+![right](StrainGaugeVisualization.svg.jpg)
+
+* Sensing deformation
+* Widely used for building pressure sensors
+* Detecting resistance or capacitance change
+* Implemented on metal foils, semiconductors, microelectromechanical systems (MEMS), optical fibers, etc.
+
+<!-- By Izantux (WikiCommons) [<a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AStrainGaugeVisualization.svg">via Wikimedia Commons</a> -->
+
+---
+
 # Non-contact sensors
 
 * Antenna (electromagnetic / radiowave)
@@ -192,6 +217,14 @@ Converting environmental changes into information output
 * Microphone (sound / vibration)
 * Photodiode (CCD/CMOS image sensors)
 * Thermistor (temperature)
+
+---
+
+# Rain sensor
+
+![inline](Rain_sensor_en.svg.jpg)
+
+<!-- By Puppenbenutzer (Own work) [<a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a> or <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3ARain_sensor_en.svg">via Wikimedia Commons</a> -->
 
 ---
 
@@ -238,17 +271,15 @@ Think about the following aspects:
 
 ---
 
-### Appendix: Wikimedia Commons credits for photos
+### Credits for photos and diagrams
 
-
-```markdown
-<https://commons.wikimedia.org/wiki/File%3AMotherboard_diagram.svg>
-<https://commons.wikimedia.org/wiki/File%3AIntel_D945GCPE_Board.JPG>
-<https://commons.wikimedia.org/wiki/File%3ARaspberry_Pi_B%2B_rev_1.2.svg>
-<https://commons.wikimedia.org/wiki/File%3ARaspberry_Pi_3_Model_B.png>
-<https://commons.wikimedia.org/wiki/File%3ABreadboard_Arduino_BBAC_-_Step_2_Programming_with_a_Duemilanove.jpg>
-<https://commons.wikimedia.org/wiki/File%3APicoduino_size_demonstration.png>
-<https://commons.wikimedia.org/wiki/File%3ASmart_sensors.jpg>
-
-(All licensed CC BY-SA)
-```
+* Moxfyre at English Wikipedia [[GFDL](http://www.gnu.org/copyleft/fdl.html), [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/),[GFDL](http://www.gnu.org/copyleft/fdl.html) or [CC BY-SA 2.5-2.0-1.0](http://creativecommons.org/licenses/by-sa/2.5-2.0-1.0)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File%3AMotherboard_diagram.svg>
+* By Julianprescott2604juuly (Own work) [[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File%3AIntel_D945GCPE_Board.JPG>
+* By Efa2 (Own work) [[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File%3ARaspberry_Pi_B%2B_rev_1.2.svg>
+* By Herbfargus (Own work) [[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File%3ARaspberry_Pi_3_Model_B.png>
+* By oomlout ([Flickr source](https://www.flickr.com/photos/snazzyguy/3765640032/sizes/l/)) [[CC BY-SA 2.0](http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File%3ABreadboard_Arduino_BBAC_-_Step_2_Programming_with_a_Duemilanove.jpg>
+* By Bobricius (Own work) [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File%3APicoduino_size_demonstration.png>
+* By Tejashs (Own work) [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File%3ASmart_sensors.jpg>
+* By Mercury13 (Own work) [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons <https://en.wikipedia.org/wiki/File:TouchScreen_projective_capacitive.svg>
+* By Izantux (WikiCommons) [[CC0](https://creativecommons.org/publicdomain/zero/1.0/)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File:StrainGaugeVisualization.svg>
+* By Puppenbenutzer (Own work) [[GFDL](http://www.gnu.org/copyleft/fdl.html) or [CC BY 3.0](http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File%3ARain_sensor_en.svg>
