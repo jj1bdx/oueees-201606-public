@@ -21,7 +21,7 @@
 
 * Embedded CPU, logic chips, boards, and fast prototyping
 * Sensor devices
-* Energy efficiency constraint and solutions
+* (Energy efficiency constraint and solutions) - not really pursued this year
 
 ## 21-JUN-2016: IoT software and infrastructure
 
