@@ -41,7 +41,28 @@ Toyonaka, Osaka, Japan
 
 ---
 
+# Trivia: IoT is also called M2M (Machine to Machine)
+
+---
+
+# OTOH current IoT model: specialized for data collection
+
+---
+
 ![fit](iot-model.jpg)
+
+---
+
+# So, the reality is:
+
+* Mostly unidirectional (not really *the true and genuine internet*)
+* Sensors/devices gathering data through internet and feed them to the servers in the cloud computing platforms
+* *The servers do the most of computation*
+* **Extremely centralized**
+
+---
+
+# Things need local servers
 
 ---
 
@@ -49,17 +70,52 @@ Toyonaka, Osaka, Japan
 
 ---
 
-# So, the reality is:
+# Why local server nodes?
 
-* Mostly unidirectional
-* Sensors/devices gathering data through internet and feed them to the servers in the cloud computing platforms
-* *The servers do the most of computation*
+* Microcontrollers do not speak internet
+* TCP/IP, HTTP, MQTT and other protocols are simply *too complex*
+* Local servers give more computing power
+* Devices to servers: serial over USB, SPI, I2C
+* Local servers to internet: HTTP, MQTT, UDP
+* ... with cryptographic security (TLS)
 
 ---
 
+# Reality: nobody wants to think about the security (and privacy)
 
+---
 
+# Secure operation is hard
 
+* Access control: filesystems, networks, etc.
+* Authentication: identity management
+* Cryptography: computationally security consumes a lot of CPU power
+* Logging and backup
+* Physical tampering: TEMPEST (electromagnetic emission), wiretapping, **device theft**
+
+---
+
+# More reality: security incidents may risk your business and trust
+
+---
+
+# So what is "IoT security"?
+
+* Nothing special: no silver bullet exists
+* 20 years ago in 1995, it was called **private network**; and now it is called **VPN** (virtual private network)
+* How to connect non-intelligent devices without worrying much about security
+* Closed networks built over internet
+* Question: *is it really secure*?
+
+---
+
+# Security with 3G/LTE example: SORACOM Canal
+
+* Device > 3G/LTE > SORACOM Virtual Private Cloud (VPC) > user's AWS VPC (no internet exposure)
+* SIM-based authentication and encryption
+* No need to configure VPN
+* Access to internet selectable via Virtual Private Gateways (VPGs)
+* Public Beta status as of June 2016
 
 ---
 
