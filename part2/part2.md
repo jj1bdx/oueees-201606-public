@@ -138,6 +138,50 @@ Toyonaka, Osaka, Japan
 
 ---
 
+![fit](soracom-canal.jpg)
+
+---
+
+# Other issues on IoT infrastructure systems
+
+* Very large scale database is hard
+* Massive connections/packets from devices
+* Concurrency/parallelism
+* Consistency .vs. availability
+* Distributed systems problem
+* Fault-tolerance .vs. simplicity
+
+---
+
+### Inconsistency by concurrency/parallelism
+
+![inline](locking-issue.jpg)
+
+---
+
+# Concurrency and timing
+
+![inline](Parallel-tasks.jpg)
+
+---
+
+# Inconsistency by netsplit
+
+![inline](netsplit.jpg)
+
+---
+
+# IoT device communication
+
+* Data link speed (bits/second)
+* Frequency per TCP/UDP/IP packets
+* Frequency per transmission events
+* Acceptable error rate
+* Acceptable power consumption
+* ... and many more things to consider
+
+---
+
 # Question: what kind of link technologies will emerge for IoT?
 
 Think about the following points:
@@ -153,4 +197,6 @@ Think about the following points:
 * <https://pixabay.com/en/icons-symbols-signs-set-travel-41305/> [[CC0 / public domain](https://creativecommons.org/publicdomain/zero/1.0/)]
 * <https://pixabay.com/en/network-iot-internet-of-things-782707/> [[CC0 / public domain](https://creativecommons.org/publicdomain/zero/1.0/)]
 * By Behrad3d/[IMSCenter.net](http://imscenter.net/cyber-physical-platform)
-[[CC BY-3.0](http://creativecommons.org/licenses/by/3.0/)], via Wikipedia <https://en.wikipedia.org/wiki/File:CPS_for_Manufacturing.png>
+[[CC BY-3.0](http://creativecommons.org/licenses/by/3.0/)], via Wikipedia <https://en.wikipedia.org/wiki/File%3ACPS_for_Manufacturing.png>
+* By Jackyknight (Own work) [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File%3AParallel-tasks.png>
+* By b4283 (Own work) [[CC0 / public domain](https://creativecommons.org/publicdomain/zero/1.0/)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File%3ANetsplit_split.svg>
