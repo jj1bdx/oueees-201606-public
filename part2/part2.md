@@ -45,11 +45,30 @@ Toyonaka, Osaka, Japan
 
 ---
 
-# OTOH current IoT model: specialized for data collection
+# M2M technology
+
+* Direct communication between devices
+* IoT is modern M2M
+* Links: PSTN, GSM/3G/LTE, internet, Wifi, bluetooth, LoRa (low-power WAN), etc.
+* *Not necessarily* centralized
 
 ---
 
-![fit](iot-model.jpg)
+# Cyber-physical systems[^1]
+
+![inline,fit](CPS_for_Manufacturing.png)
+
+[^1]: By Behrad3d/IMSCenter.net, <http://imscenter.net/cyber-physical-platform>
+
+---
+
+# OTOH current IoT model: for telemetering = data collection
+
+---
+
+# Telemetering
+
+![inline, fit](iot-model.jpg)
 
 ---
 
@@ -127,11 +146,11 @@ Think about the following points:
 * How much bandwidth is required?
 * How reliable should the communication be?
 
-
-
 ---
 
 ### Credits for photos and diagrams
 
-* <https://pixabay.com/en/icons-symbols-signs-set-travel-41305/> ([CC0 / public domain](https://creativecommons.org/publicdomain/zero/1.0/))
-* <https://pixabay.com/en/network-iot-internet-of-things-782707/> ([CC0 / public domain](https://creativecommons.org/publicdomain/zero/1.0/))
+* <https://pixabay.com/en/icons-symbols-signs-set-travel-41305/> [[CC0 / public domain](https://creativecommons.org/publicdomain/zero/1.0/)]
+* <https://pixabay.com/en/network-iot-internet-of-things-782707/> [[CC0 / public domain](https://creativecommons.org/publicdomain/zero/1.0/)]
+* By Behrad3d/[IMSCenter.net](http://imscenter.net/cyber-physical-platform)
+[[CC BY-3.0](http://creativecommons.org/licenses/by/3.0/)], via Wikipedia <https://en.wikipedia.org/wiki/File:CPS_for_Manufacturing.png>
