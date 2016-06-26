@@ -75,7 +75,7 @@ Toyonaka, Osaka, Japan
 * Considered as **serious human right abuse**
 * An UK example: closed-circuit television (CCTV) = *surveillance cameras* all around the nation (~1.85 million[^1] nationwide in UK)
 
-[^1]: https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_Kingdom#Number_of_cameras
+[^1]: <https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_Kingdom#Number_of_cameras>
 
 ---
 
@@ -110,7 +110,7 @@ Toyonaka, Osaka, Japan
 * Major players: US NSA, UK GCHQ
 * ... and many ISPs cooperate
 
-[^2]: https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)
+[^2]: <https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>
 
 ---
 
