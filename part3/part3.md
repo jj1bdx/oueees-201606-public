@@ -89,6 +89,10 @@ Toyonaka, Osaka, Japan
 
 ---
 
+![original,fit](LfV_BW_1998_Echelon.jpg)
+
+---
+
 ![original,fit](Edward_Snowden_Conference_2015.jpg)
 
 ### Edward Snowden
@@ -152,9 +156,45 @@ Toyonaka, Osaka, Japan
 
 ---
 
+# Privacy protection
 
+* Access control to prevent accidental revelation of obtained data
+* End-to-end cryptography: preventing MITM attacks or wiretapping
+* *Not* collecting the data you don't need to know; or even discarding them
+* **Data can be used for something completed unintended at the beginning**
 
+---
 
+# You control
+# *your data*
+
+---
+
+# Your data is yourself
+
+* Biometrics: fingerprints, blood cells, skin tissues, face, weight, height, retina patterns
+* Credit history: back account, credit card payment, CO-OP meal card payment
+* Purchasing history: books, music, videos
+* Publications: blog, SNS records (*both public and private*), chat conversations
+
+---
+
+# Traffic analysis
+
+* Collective analysis: big data science
+* **Targeted analysis: monitoring conversation of specific two or more people**
+* **Surveillance**: completely passive, you will never know who chases after you
+* **IoT** to analyze personal/private activities
+
+---
+
+# Question: what will happen if IoT becomes pervasive in our world?
+
+Think about the following points:
+
+* How precise your activities will be monitored?
+* Can machines *predict* how you will move or act?
+* What will the next step from global mass surveillance be? 
 
 ---
 
@@ -163,6 +203,7 @@ Toyonaka, Osaka, Japan
 * <http://www.publicdomainpictures.net/view-image.php?image=165944&picture=brexit> [[CC0 / public domain](https://creativecommons.org/publicdomain/zero/1.0/)]
 * By User Mike1024 (Photographed by User\:Mike1024) [[CC0 / public domain](https://creativecommons.org/publicdomain/zero/1.0/)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Security_cameras_7_count_birmingham_new_street_station.jpg>
 * By Rsa (Own work) [[GFDL](http://www.gnu.org/copyleft/fdl.html) or [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File:JR_East_E232-7001_surveillance_camera.jpg>
+* <https://en.wikipedia.org/wiki/File:LfV_BW_1998_Echelon.jpg> [[CC0 / public domain](https://creativecommons.org/publicdomain/zero/1.0/)]
 * By Gage Skidmore [[CC BY-SA 2.0](http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File%3AEdward_Snowden_Conference_2015.jpg>
 * <https://en.wikipedia.org/wiki/File:NSA_Muscular_Google_Cloud.jpg> [[CC0 / public domain](https://creativecommons.org/publicdomain/zero/1.0/)]
 * By [User:Amityadav](https://commons.wikimedia.org/w/index.php?title=User:Amityadav8) [[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons <https://commons.wikimedia.org/wiki/File%3ACCTV_Surveillance_Notice.svg>
