@@ -161,7 +161,7 @@ Toyonaka, Osaka, Japan
 * Access control to prevent accidental revelation of obtained data
 * End-to-end cryptography: preventing MITM attacks or wiretapping
 * *Not* collecting the data you don't need to know; or even discarding them
-* **Data can be used for something completed unintended at the beginning**
+* **Data can be used for something completely unintended at the beginning**
 
 ---
 
